@@ -9,7 +9,7 @@ export const Home = () => {
             <span className="blue_gradient text-center">AI powered Prompt</span>
         </h1>
         <p className="desc text-center">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores commodi fuga veniam magni quam quas architecto, sed nisi possimus dicta ullam enim quia, excepturi eligendi, ea soluta optio hic nemo qui aperiam natus similique repudiandae iusto. Velit unde dolores eum.
+            Magical prompt-share platform ✨
         </p>
 
         <Feed />
